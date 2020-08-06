@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+.gradle/
+*.iml
+*.iws
+*.editorconfig
+
+# Gradle
+log/
+target/
+hooks/pre-push
+
+# Java
+build/
+out/
+*.class
+*.war
+*.ear
+
+# Log file
+*.log
+
+#Sonar
+.scannerwork/
+
+#OHI
+data_automatizacion.txt
